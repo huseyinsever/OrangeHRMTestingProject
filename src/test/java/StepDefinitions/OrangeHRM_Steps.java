@@ -124,5 +124,5 @@ public class OrangeHRM_Steps {
     public void accountLogOut() {
         dc.findAndClick("accountIcon");
         dc.findAndClick("logOut");
-    }
+    }  // DENEME
 }
